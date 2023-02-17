@@ -1,0 +1,6 @@
+pip uninstall ruamel.yaml
+pip uninstall spyder-notebook
+
+pip install ruamel.yaml==0.17.21
+pip install spyder-notebook==0.4.0
+
