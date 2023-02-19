@@ -1,3 +1,5 @@
+# For Anaconda Spyder 5.X
+
 pip uninstall ruamel.yaml
 pip uninstall spyder-notebook
 
